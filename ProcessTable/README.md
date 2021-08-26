@@ -18,4 +18,8 @@ The process table will contain all of the processes in the operating system. Imp
 File `test.cpp` 
 
 # main.cpp
+<<<<<<< HEAD
 File `main.cpp` will read a json input file that contains a set of process definitions, and then print the resulting process table using the method implemented in the ProcessTable class.
+=======
+File `main.cpp` will read a json input file that contains a set of process definitions, and then print the resulting process table using the method implemented in the ProcessTable class.
+>>>>>>> 6d6eb0ba3e65b9710fa3c1db7c79facf6b9a9324
