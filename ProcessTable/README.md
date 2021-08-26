@@ -17,5 +17,5 @@ The process table will contain all of the processes in the operating system. Imp
 # Code tested in
 File `test.cpp` 
 
-# load_table.cpp
+# main.cpp
 File `main.cpp` will read a json input file that contains a set of process definitions, and then print the resulting process table using the method implemented in the ProcessTable class.
