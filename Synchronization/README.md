@@ -15,7 +15,7 @@ Since this program will be multi-threaded, protection is added to the scheduler 
 
 The template header files define a mutex class member. `std::lock_guard` is used to protect each function in this class using the mutex. (This uses RAII to protect the critical sections)
 
-# run_processes
+# main
 The `main.cpp` file implements thread-based execution.
 
 
