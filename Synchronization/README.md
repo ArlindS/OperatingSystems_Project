@@ -5,7 +5,7 @@ requires synchronization between the threads.
 
 # Scheduler Classes
 
-## Differences from Assignment 3
+## Additions
 
 * The `nextProcess()` method removes the process from its data structure when it returns a process to schedule.
 * The `requeueProcess()` is used to put the process back into the scheduler after it has executed.
